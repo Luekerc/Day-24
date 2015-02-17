@@ -1,0 +1,13 @@
+{
+  "name": "Day-24",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Luekerc/Day-24",
+  "authors": [
+    "Charles Lueker <charleslueker@yahoo.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3"
+  }
+}

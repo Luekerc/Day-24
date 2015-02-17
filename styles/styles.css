@@ -1,0 +1,51 @@
+html {
+	background-color:rgb(228, 228, 288);
+	font-family: lato;
+
+
+}
+#to-do {
+	margin: 1em 0 0 1em;
+	font-weight: bold;
+	padding: 2em 0 0 0;
+
+
+}
+#add-button{
+	background-color: rgb(228, 228, 288);
+	border-radius: 10px;
+
+}
+#description {
+	margin-left: 1.5em;
+	background-color: rgb(233, 190, 150);
+	border-radius: 10px;
+	padding-left: 0.5em;
+}
+
+#app-view {
+	background-color: rgb(190,150,140);
+	height: 20em;
+	border-radius: 30px;
+}
+/*#box {
+	padding-top: 1em;
+}*/
+
+#list {
+
+	padding-left: -2em;
+	border-bottom: solid rgba(0,0,0,.4) 10px;
+}
+#list h3 {
+	height: 0.25em;
+	margin-left: -1em;
+}
+.item{
+	display: inline-block;
+	margin-left: -1em;
+
+}
+#list-item{
+	display: block;
+}
