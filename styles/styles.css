@@ -39,13 +39,21 @@ html {
 }
 #list h3 {
 	height: 0.25em;
-	margin-left: -1em;
+	/*margin-left: -1em;*/
 }
 .item{
 	display: inline-block;
-	margin-left: -1em;
+	margin-left: 1em;
 
+}
+#my-list{
+	overflow: hidden;
 }
 #list-item{
 	display: block;
+	overflow: hidden;
+}
+.check-box{
+	overflow: hidden;
+
 }

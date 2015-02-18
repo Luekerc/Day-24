@@ -8,7 +8,7 @@ var AppView = Backbone.View.extend({
 			);
 		console.log('1');
 	 this.posts = new PostCollection();
-	 this.$list = $('#list');
+	 this.$list = $('#list-item');
 
 	 this.$descriptionBox = $('#description');
 	 this.$addButton = $('#add-button');
