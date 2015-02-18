@@ -44,7 +44,6 @@ html {
 .item{
 	display: inline-block;
 	margin-left: 1em;
-
 }
 #my-list{
 	overflow: hidden;
@@ -55,5 +54,4 @@ html {
 }
 .check-box{
 	overflow: hidden;
-
 }
