@@ -10,7 +10,7 @@ var ItemView = Backbone.View.extend({
 		this.$checkBox = $(this.$item.find('.check-box'));
 
 	
-		// this.$checkBox.on('click', this.onStrikeThrough);
+		this.$checkBox.on('click', this.onStrikeThrough);
 	},
 
 	onStrikeThrough: function(){
